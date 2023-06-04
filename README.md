@@ -6,7 +6,7 @@ Our online workshop serve as an **introduction to Genome-Wide Association Study 
 
 ➡️ About the workshop
 
-During this workshop you will get introduced to the Genome-Wide Association and the R package GAPIT (https://github.com/jiabowang/GAPIT).
+During this workshop you will get introduced to the Genome-Wide Association and the R package **GAPIT** (https://github.com/jiabowang/GAPIT).
 
 GWAS is a method to identify genes associated with particular traits by scanning the genomes from many different individuals for markers. This can help scientists identify genetic variations linked to a particular disease or trait.
 
