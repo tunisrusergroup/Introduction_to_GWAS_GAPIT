@@ -12,4 +12,5 @@ GWAS is a method to identify genes associated with particular traits by scanning
 During this session, you'll understand the basic steps of running GAPIT and the plots and outputs that are generated thanks to a practical example.
 
 ➡️ Speaker
+
 Andy Chen is an aspiring plant breeder with an M.Sc. in plant genetics and breeding from the University of Guelph, where he studied with the late Professors Alireza Navabi and Professors Istvan Rajcan. During this time, he developed a new phenotyping method and identified genetic markers that could improve the winter-hardiness of winter wheat using GWAS. He is currently a final-year PhD student at the John Innes Centre in the UK, working with Professor Cristobal Uauy. Andy's current research focuses on utilizing genomic resources to identify wheat genes and new variations that can improve yield, agronomic performance, and end-use quality.
